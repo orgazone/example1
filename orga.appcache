@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# 2015-03-31:v0.9
+
+# Explicitly cached 'master entries'.
+CACHE:
+index.html
+img/logo-small.png
+https://code.jquery.com/jquery-1.11.2.min.js
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+libs/handlebars.min.js
+libs/jquery.datetimepicker.js
+libs/addtohomescreen.js
+js/helpers.js
+js/config.js
+js/orga.js
+js/app.js
+
+css/app.css
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+libs/jquery.datetimepicker.css
+libs/addtohomescreen.css
+
+# Resources that require the user to be online.
+NETWORK:
+*
