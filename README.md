@@ -5,7 +5,7 @@ need to take the detour via the App Stores!
 
 This first example demonstrates how HTML5 apps can be used on smartphones without the need for native apps.
 
-(https://apps.orga.zone/up/5/5/screen.png)
+![](https://apps.orga.zone/up/5/5/screen.png)
 
 It is solely using standard Javascript and HTML5 and simple interface libraries like
 
